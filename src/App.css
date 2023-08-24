@@ -53,6 +53,11 @@ h2 {
   -webkit-text-fill-color: transparent;
   width: fit-content;
 }
+
+img {
+  width: 5%;
+  height: 5%;
+}
   
 .search {
   width: 71%;
