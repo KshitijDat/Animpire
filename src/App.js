@@ -24,6 +24,7 @@ const App = () => {
   return (
     <div className="app">
       <h1>Animpire</h1>
+      <h2>Developed by Kshitij Datta</h2>
 
       <div className="search">
         <input
